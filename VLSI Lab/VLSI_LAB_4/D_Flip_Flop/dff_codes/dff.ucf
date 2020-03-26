@@ -1,0 +1,7 @@
+net "D" loc = "R17";  
+net "clk" loc = "B18";  
+net "rst" loc = "D18";  
+#for 500 
+#net "Prod[0]" loc  = "R4" ; 
+# for 1200 
+net "Q" loc  = "P4" ; 
